@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow:
+Sitemap: https://sinbad.dev/sinbad/br/Reduce_space_between_paragraphs_in_JD_pages/sitemap/sitemap-index.xml
+Host: https://sinbad.dev
