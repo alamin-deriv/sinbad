@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow:
+Sitemap: https://sinbad.dev/sinbad/br/Responsive__JD_page_Few_titles_are_not_center_aligned/sitemap/sitemap-index.xml
+Host: https://sinbad.dev
