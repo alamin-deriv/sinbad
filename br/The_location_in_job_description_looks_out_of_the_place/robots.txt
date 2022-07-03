@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow:
+Sitemap: https://sinbad.dev/sinbad/br/The_location_in_job_description_looks_out_of_the_place/sitemap/sitemap-index.xml
+Host: https://sinbad.dev
